@@ -1,3 +1,3 @@
 class Service < ApplicationRecord
-  belongs_to :reference
+  has_many :references, dependent: :destroy
 end
