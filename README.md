@@ -1,5 +1,5 @@
 # README
-<img src="https://www.ma-rk.cz/wp-content/uploads/2020/06/cropped-FullColor_1024x1024_72dpi-4.jpg" width="160px">
+<img src="https://www.ma-rk.cz/wp-content/uploads/2020/06/cropped-FullColor_1024x1024_72dpi-4.jpg" width="250px">
 
 <h4>This is a Ruby on rails app developed for a family real estate company Mark.</h4>
 
@@ -34,6 +34,8 @@
 <spin>DB: PostgreSQL</spin>
 <br>
 <spin>Gems: Simple Form, Faker, Bootstrap, Select2, Cloudinary, MapBox API</spin>
+<br>
+<spin>Deployment: Heroku</spin>
 <br>
 <spin>Other: Git</spin>
 <br>
